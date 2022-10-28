@@ -36,7 +36,6 @@ def simulate(n):
    trials = []
    for i in range(n):
        trials.append(coin_trial())
-       print(trials.append(coin_trial()))
    #return(sum(trials)/n)
    a=(sum(trials)/n)
    print(n)
